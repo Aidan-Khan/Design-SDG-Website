@@ -1,0 +1,39 @@
+
+p {
+	text-align: left;
+font-size: 40px;
+border: 2px solid #e30047;
+  border-radius: 5px;
+}
+
+p {
+	text-align: center;
+font-size: 40px;
+border: 2px solid lightblue;
+  border-radius: 5px;
+}
+
+
+
+p {
+	border: 100px solid #e30047;
+  border-radius: 5px;
+}
+
+
+p {
+	border: 100px solid lightblue;
+  border-radius: 5px;
+}
+
+
+p {
+	border: 100px solid #c62d2e;
+  border-radius: 5px;
+}
+
+
+
+
+
+
